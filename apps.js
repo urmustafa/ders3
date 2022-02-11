@@ -102,6 +102,7 @@ console.log(password.length>3 && password.includes('2') || password.length>11);
 var k=0 ?? 4;
 let z= null??4;
 console.log(k)
+
 console.log(z);
 
 
